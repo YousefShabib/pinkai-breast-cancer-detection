@@ -1,0 +1,9 @@
+# Whitelist: only the project files go to GitHub
+*
+!.gitignore
+!README.md
+!requirements.txt
+!PinkAI_Solution.ipynb
+!evidence_sheet.md
+!fig_geometry_before_after.png
+!fig_threshold.png
