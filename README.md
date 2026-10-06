@@ -1,5 +1,7 @@
 # Pink AI 2026 — Malignant vs Benign from FNA Measurements
 
+🏆 **1st place (shared)** at the Pink AI 2026 Hackathon by DataCamp Palestine Community × Gaza Sky Geeks
+
 **Relax Team** solution for the Pink AI 2026 Data Camp competition: clean a deliberately messy
 breast-tumour dataset (fine needle aspirate measurements), train a model that separates malignant
 from benign, and pick a decision threshold that survives a shifted test set.
