@@ -34,6 +34,12 @@ patient-grouped CV) → threshold under stress → submission → evidence sheet
 The full write-up of every decision is in [`evidence_sheet.md`](evidence_sheet.md), and every number
 in it is printed by the notebook.
 
+## Documents
+
+- [Pitch deck](Relax%20Team%20Pitch.pdf): the 3-minute competition pitch (9 slides)
+- [Technical summary](RelaxTeam_Technical_Summary.pdf) (Arabic): the models, statistical techniques
+  and validation, in 2 pages
+
 ## Run it
 
 ```bash
